@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="header">Let the fun start here!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="forgot">I forgot my password</string>
 </resources>
